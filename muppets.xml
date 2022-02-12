@@ -21,4 +21,5 @@
   <project name="TheMuppets/proprietary_vendor_shift" path="vendor/shift" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" />
   <project name="TheMuppets/proprietary_vendor_zuk" path="vendor/zuk" />
+  <project name="TheMuppets/proprietary_vendor_yandex" path="vendor/yandex" />
 </manifest>
